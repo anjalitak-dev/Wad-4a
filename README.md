@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-
+ https://anjalitak-dev.github.io/Wad-4a/
 
 ---
 
@@ -19,7 +19,5 @@
 - 🌸 Soft pastel color palette and custom Google Fonts (`Great Vibes`, `Roboto`)
 - 🖼️ Background images and product pictures enhance user engagement
 
----
 
-## 📁 Project Structure
 
